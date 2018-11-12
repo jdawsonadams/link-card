@@ -10,7 +10,7 @@ html {
   box-sizing: inherit;
 }
 
-h1 {
+h2 {
 font-family: 'Dosis', sans-serif;
 font-weight: bold;
 font-size: 1.5rem;
@@ -18,8 +18,12 @@ color: #512200;
 padding: .3em .2em;
 }
 
+link-card {
+  border: 0;
+}
+
 div {
-  margin: 1rem;
+  margin: .75em;
 }
 
 p {
@@ -48,7 +52,7 @@ dd {
   font-style: italic;
 }
 
-.link-card {
+.learn {
   font-size: 1.125rem;
   color: #fff;
   background-color: #785439;
@@ -68,4 +72,8 @@ dd {
 
 .btn {
   text-align: center;
+}
+
+.link-card:hover {
+
 }
