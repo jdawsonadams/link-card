@@ -24,7 +24,8 @@ h2 {
   background-color: #dcd4cd;
   border-width: 3px;
   border-style: solid;
-  border-radius: 3px;
+  border-radius: 8px;
+  border-color: #9a816d;
   margin: 0;
   padding: .5em;
 }
