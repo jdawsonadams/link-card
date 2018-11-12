@@ -39,6 +39,7 @@ body {
 
 dl {
   display: inline-block;
+  font-size: .875rem;
 }
 
 dt {
@@ -61,14 +62,15 @@ dd {
   border-width: 3px;
   text-decoration: none;
   display: inline-block;
-  padding: .75em;
+  padding: .5em;
   font-family: "Dosis", sans-serif;
   font-weight: bold;
+  margin: .5em;
 }
 
 .line {
   border-bottom: solid;
-  border-width: thin;
+  border-width: medium;
   border-color: #9a816d;
 }
 
