@@ -68,6 +68,7 @@ dd {
 
 .line {
   border-bottom: solid;
+  border-width: thin;
   border-color: #9a816d;
 }
 
